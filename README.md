@@ -6,8 +6,7 @@ These cursors are made to replicate the MacOS High Sierra - MacOS Sequoia Cursor
 
 
 # NOTE
-NONE of these cursors are mine, in fact they're Apple Incorporated's all made into .cur and .ani files by Antiden on Github (https://github.com/antiden/macOS-cursors-for-Windows)
-
+NONE of these cursors are mine, in fact they're Apple Incorporated's all made into .cur and .ani files by Antiden on Github (https://github.com/antiden/macOS-cursors-for-Windows/tree/main/1.%20Sierra%20and%20newer/2.%20With%20Shadow/1.%20Normal)
 
 
 
