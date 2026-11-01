@@ -1,4 +1,5 @@
-<img width="500" height="500" alt="Finder_Face_with_Amazon-Style_Arrow_Smile-removebg-preview" src="https://github.com/user-attachments/assets/629605d3-9b0f-4bd3-b4b2-ced7fcfb2a9d" />   # CURSORS
+<img width="500" height="500" alt="Finder_Face_with_Amazon-Style_Arrow_Smile-removebg-preview" src="https://github.com/user-attachments/assets/629605d3-9b0f-4bd3-b4b2-ced7fcfb2a9d" /> 
+# CURSORS
 These cursors are made to replicate the MacOS High Sierra - MacOS Sequoia Cursors. Everything from the colours to the animations are the same.
 
 
