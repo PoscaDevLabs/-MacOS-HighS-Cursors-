@@ -27,9 +27,9 @@ There aren't any other cursor styles as this is focused on MacOS Sierra/High Sie
 # INSTALLATION
 After downloading the file double click the .bat file after downloading from the releases (v0.9.1 download from the main branch) and it should automatically set up your cursor
 
-#REQUIREMENTS
+# REQUIREMENTS
 MINIMUM: Windows 7 x86/32 bit RAM 2GB
-Windows 7 x86_64/x64/64 bit RAN 4GB
+Windows 7 x86_64/x64/64 bit RAM 4GB
 
 RECOMMENDED: Windows 8.1 6.3.9600 x86/32 bit 3GB RAM+
 Windows 8.1 6.3.9600 x86_64/x64/64 bit
