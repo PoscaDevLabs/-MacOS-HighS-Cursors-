@@ -1,30 +1,42 @@
-# macOS High Sierra Cursors — GitHub Pages site
+![Finder Face](https://github.com/user-attachments/assets/629605d3-9b0f-4bd3-b4b2-ced7fcfb2a9d)
 
-A static, responsive landing page for the PoscaDevLabs cursor project.
+# CURSORS
 
-## Files
+These cursors are made to replicate the MacOS High Sierra - MacOS Sequoia Cursors. Everything from the colours to the animations are the same.
 
-- `index.html` — page structure and content
-- `styles.css` — responsive styling and visual design
-- `script.js` — mobile navigation and current-year footer
-- `assets/` — favicon and illustrative cursor preview SVGs
+# NOTES
 
-## Preview locally
+NONE of these cursors are mine, in fact they're Apple Incorporated's all made into .cur and .ani files by Antiden on Github (https://github.com/antiden/macOS-cursors-for-Windows/tree/main/1.%20Sierra%20and%20newer/2.%20With%20Shadow/1.%20Normal)
 
-Open `index.html` in a browser. No build tools or dependencies are required. Google Fonts is used as an optional enhancement; the page falls back to system fonts if it is unavailable.
+Current Screenshot is from release 0.9.1 and cursors have been excluded such as the drag cursor
 
-## Publish with GitHub Pages
+Since v0.9.1 the file to run has been placed in releases rather than the main branch
 
-1. Add these files and the `assets` folder to the **root** of `PoscaDevLabs/-MacOS-HighS-Cursors-`.
-2. Commit the changes to the `main` branch.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch `main` and folder `/ (root)`, then save.
-6. GitHub Pages will publish the site at `https://poscadevlabs.github.io/-MacOS-HighS-Cursors-/` once deployment finishes.
+v0.9.1's file has been deleted
 
-## Important notes before publishing
+There aren't any other cursor styles as this is focused on MacOS Sierra/High Sierra. MacOS 26 and 27 cursors MAY be introduced in the future
 
-- The preview cursor SVGs are illustrative website artwork, not screenshots or replacements for the actual `.cur` / `.ani` pack.
+# SCREENSHOT(S)
+
+<img width="394" height="191" alt="image" src="https://github.com/user-attachments/assets/ad02baba-9e30-4c01-b9de-b5ff787b34bb" />
+
+# INSTALLATION
+
+After downloading the file double click the .bat file after downloading from the releases (v0.9.1 download from the main branch) and it should automatically set up your cursor
+
+# REQUIREMENTS
+
+MINIMUM: Windows 7 x86/32 bit RAM 2GB  
+Windows 7 x86_64/x64/64 bit RAM 4GB
+
+RECOMMENDED: Windows 8.1 6.3.9600 x86/32 bit 3GB RAM+  
+Windows 8.1 6.3.9600 x86_64/x64/64 bit
+
+MAXIMUM (currently): Windows 11 x86_64/x64/64 bit RAM 6TB
+
+# AFFILIATES NOTE
+
+I am not partnered or affiliated with Antiden or Apple Incorporated as Antiden packages MacOS cursors as .cur and .ani files and I just packaged them into a .bat file that sets up the cursorots or replacements for the actual `.cur` / `.ani` pack.
 - The primary buttons currently link to the GitHub repository because a dedicated release download URL was not available when this page was prepared. Once you publish a release, you can change the hero and installation buttons to its exact asset URL.
 - Review the README and project files to ensure the installation instructions and attribution remain accurate as the repository changes.
 - This is an independent fan project and is not affiliated with or endorsed by Apple Inc.
